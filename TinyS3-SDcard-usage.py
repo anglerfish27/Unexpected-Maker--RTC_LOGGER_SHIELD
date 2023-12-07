@@ -27,7 +27,6 @@ SOFTWARE.
 '''
 import machine
 import os
-from time import sleep
 from machine import Pin
 
 
