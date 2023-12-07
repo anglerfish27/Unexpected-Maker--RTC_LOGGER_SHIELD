@@ -35,7 +35,6 @@ SPI_SS = Pin(34)
 SPI_MOSI = Pin(35, Pin.OUT)
 SPI_SCK = Pin(36)
 SPI_MISO = Pin(37, Pin.IN)
-SD_DET = Pin(3)
 
 
 # Check to see if no SD card is active/inserted. Should just print whatever files you have in / along
